@@ -1,10 +1,11 @@
 # Painel de vendas em Power BI
 
-![Demonstração do Dashboard](painel-de-vendas.gif)
+![Demonstração do Dashboard](dashboard.png)
+![Demonstração dos Insights](insights.png)
 
 ## Descrição
 
-Este projeto apresenta um dashboard interativo desenvolvido no Power BI para análise de dados de vendas, proporcionando insights valiosos para a equipe de vendas e gestão. O dashboard foi construído utilizando arquivos de dados CSV e inclui várias visualizações para facilitar a compreensão e análise dos dados.
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI para análise de dados de vendas, proporcionando insights valiosos para a equipe de vendas e gestão. O dashboard foi construído utilizando arquivos de dados CSV e inclui várias visualizações para facilitar a compreensão e análise dos dados. Confira o dashboard completo [aqui](https://app.powerbi.com/view?r=eyJrIjoiNzE2OTcwOTItMmJkNy00YTMxLTlmYjAtNDdjZGM3YWFjNGQwIiwidCI6IjJjYjZmMGIwLWZiMDktNGM5Mi1iNWYzLTQ0N2ZiZThjOWVmZiJ9&pageName=ReportSection).
 
 ## Desenvolvimento
 
